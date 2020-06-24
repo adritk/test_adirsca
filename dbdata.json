@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "nama": "user",
+      "password": "user"
+    }
+  ],
+  "barang": [
+    {
+      "nama": "Iphone XS",
+      "harga": "9000000",
+      "id": 1
+    }
+  ]
+}
